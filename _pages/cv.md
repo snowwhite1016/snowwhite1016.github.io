@@ -11,54 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Artifical Intelligence, Monash University, 2023-now
+* B.S. in Logistic Management, Yunnan University, 2018-2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022-2023: Management Trainee
+  * CITIC Securities Co., Ltd
+  * Duties includes: Customer development and maintenance, data analysis, financing business
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021.6-2021.8: Intern
+  * The First Construction of China Mechanical Industry co. LTD
+  * Duties included: Recorded logistics information, maintain material and equipment information systems
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019.6-2019.6: Intern
+  * Statistical Bureau of Deyang, Sichuan Province
+  * Duties included: Analyze data according to requirements and outputting scheme reports
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* MS Office
+* Python
+* SQL
+* Linux
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+1. Luo, X., Tang, J., Wei, Y., & Loo, J. (2024). An ethical decision-making algorithm for autonomous vehicles during an inevitable collision. IEEE IV 2024（under review）
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
