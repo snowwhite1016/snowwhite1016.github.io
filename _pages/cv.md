@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* M.S. in Artifical Intelligence, Monash University, 2023-now
+* M.S. in Artifical Intelligence, Monash University, 2023-Now
 * B.S. in Logistic Management, Yunnan University, 2018-2022
 
 Project experience
 ======
-* 2023-now: Research Intern
+* 2023-Now: Research Intern
   * Research group on Spatial effects of dollar Externalities
   * Duties includes: Literature collection and collation, participate in empirical analysis
 
